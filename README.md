@@ -26,8 +26,8 @@
 ## 📂 Daftar Tugas
 
 - [x] **Week 2** — [`Praktikum`](./JS02/)  
-<!--
 - [x] **Week 3** — [`Praktikum`](./JS03/) 
+<!--
 - [x] **Week 4** — [`Praktikum`](./JS04/) 
 - [x] **Week 5** — [`Praktikum`](./JS05/) 
 - [x] **Week 6** — [`UTS`](./JS06/) 
